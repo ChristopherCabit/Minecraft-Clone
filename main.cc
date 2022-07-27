@@ -1,13 +1,5 @@
 //blah blah blah
-//Respitoryecho "# Minecraft" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/BedWarsNoob/Minecraft.git
-git push -u origin main
-// Register the window class.
-const wchar_t CLASS_NAME[]  = L"Sample Window Class";
+
 
 WNDCLASS wc = { };
 
